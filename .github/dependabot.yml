@@ -9,9 +9,9 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
-  open-pull-requests-limit: 10
-  target-branch: master
-  versioning-strategy: increase
-  ignore:
-    - dependency-name: "react-chartjs-2"
-    - dependency-name: "chart.js"
+    open-pull-requests-limit: 10
+    target-branch: master
+    versioning-strategy: increase
+    ignore:
+      - dependency-name: "react-chartjs-2"
+      - dependency-name: "chart.js"
