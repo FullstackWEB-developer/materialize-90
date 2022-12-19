@@ -833,10 +833,10 @@
   dependencies:
     "@iconify/types" "^2.0.0"
 
-"@iconify/json@2.1.151":
-  version "2.1.151"
-  resolved "https://registry.yarnpkg.com/@iconify/json/-/json-2.1.151.tgz#f567368f6f1a9b51e3cf21c5170157df6478d191"
-  integrity sha512-TFGrS/mVeIbxVHoc1nOKMJnKq0G8FPCeLL3SAcBd+ZHXriqsWjklyMkwf4SHkLhUhMYNEoyXpHxry6PxgUf1xw==
+"@iconify/json@2.1.154":
+  version "2.1.154"
+  resolved "https://registry.yarnpkg.com/@iconify/json/-/json-2.1.154.tgz#b4e278d55f30046b89c93e156e3c213e67e48e84"
+  integrity sha512-RpUu4zDoeqIAzD54t8mfCKca+fzASgFf+lFE7Y9OzvScrf+IbUrvyZZEcOkjEB1cB4emDgmWGTAAkVTihhaqxQ==
   dependencies:
     "@iconify/types" "*"
     pathe "^0.3.0"
