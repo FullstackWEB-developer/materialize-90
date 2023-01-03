@@ -817,13 +817,13 @@
   dependencies:
     "@iconify/types" "^2.0.0"
 
-"@iconify/json@2.1.154":
-  version "2.1.154"
-  resolved "https://registry.yarnpkg.com/@iconify/json/-/json-2.1.154.tgz#b4e278d55f30046b89c93e156e3c213e67e48e84"
-  integrity sha512-RpUu4zDoeqIAzD54t8mfCKca+fzASgFf+lFE7Y9OzvScrf+IbUrvyZZEcOkjEB1cB4emDgmWGTAAkVTihhaqxQ==
+"@iconify/json@2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@iconify/json/-/json-2.2.1.tgz#2800aa4ba52adac1c0916c0c256a9b5d75f8170a"
+  integrity sha512-h6QAV4i0B/QdpJRWExgE5am3WtmNAy/NucsAGNtYsNzeLBa+TVig4QpO9nQrX172tQvEZAfSqUkvCx/y7GN0GQ==
   dependencies:
     "@iconify/types" "*"
-    pathe "^0.3.0"
+    pathe "^1.0.0"
 
 "@iconify/react@4.0.1":
   version "4.0.1"
@@ -3930,10 +3930,15 @@ path-type@^4.0.0:
   resolved "https://registry.yarnpkg.com/path-type/-/path-type-4.0.0.tgz#84ed01c0a7ba380afe09d90a8c180dcd9d03043b"
   integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
 
-pathe@^0.3.0, pathe@^0.3.9:
+pathe@^0.3.9:
   version "0.3.9"
   resolved "https://registry.yarnpkg.com/pathe/-/pathe-0.3.9.tgz#4baff768f37f03e3d9341502865fb93116f65191"
   integrity sha512-6Y6s0vT112P3jD8dGfuS6r+lpa0qqNrLyHPOwvXMnyNTQaYiwgau2DP3aNDsR13xqtGj7rrPo+jFUATpU6/s+g==
+
+pathe@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/pathe/-/pathe-1.0.0.tgz#135fc11464fc57c84ef93d5c5ed21247e24571df"
+  integrity sha512-nPdMG0Pd09HuSsr7QOKUXO2Jr9eqaDiZvDwdyIhNG5SHYujkQHYKDfGQkulBxvbDHz8oHLsTgKN86LSwYzSHAg==
 
 payment@2.4.6, payment@^2.3.0:
   version "2.4.6"
