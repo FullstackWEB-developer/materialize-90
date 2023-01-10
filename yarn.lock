@@ -744,10 +744,10 @@
   resolved "https://registry.yarnpkg.com/@fullcalendar/list/-/list-6.0.0.tgz#3b5d30f5e38b92aebf0cd28b4cfcb1da66002961"
   integrity sha512-twioEtFEKoZVrDxIRJvc2suxfq2DCJ7mbMshTAOk03PDbvUczdSja3fNs3FjchED4LgAxkIcGineMuhtH2EpMQ==
 
-"@fullcalendar/react@6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@fullcalendar/react/-/react-6.0.0.tgz#0c294309d29c185af9c3d62f11d038a66a6474b2"
-  integrity sha512-uxICTGtFclJigItsB4kH8xUHeV8KRKpAJpV2YFDBocN4KH/Xn+y/NnO5nl9YjRTYRSbi8YOAZtdVfvoU3nYPDA==
+"@fullcalendar/react@6.0.2":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@fullcalendar/react/-/react-6.0.2.tgz#0a38979ff7fa36e0fe36d6c49140f7718126fb5d"
+  integrity sha512-/rL21DcgD3CGwrB/0zpqJxcWoK2rb/AF7rcuvwgjsmUCd7Xv9/syY7yuHbhIw3/WnFE3Qz7KL3u8vEjILwlwiA==
 
 "@fullcalendar/timegrid@6.0.0":
   version "6.0.0"
