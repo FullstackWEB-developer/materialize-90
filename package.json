@@ -28,7 +28,7 @@
     "@hookform/resolvers": "2.9.10",
     "@iconify/react": "4.0.1",
     "@mui/lab": "5.0.0-alpha.115",
-    "@mui/material": "5.11.3",
+    "@mui/material": "5.11.4",
     "@mui/x-data-grid": "5.17.18",
     "@popperjs/core": "2.11.6",
     "@reduxjs/toolkit": "1.9.1",
