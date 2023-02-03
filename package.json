@@ -20,7 +20,7 @@
     "@emotion/styled": "11.10.5",
     "@fullcalendar/common": "5.11.3",
     "@fullcalendar/core": "6.0.2",
-    "@fullcalendar/daygrid": "6.0.0",
+    "@fullcalendar/daygrid": "6.0.2",
     "@fullcalendar/interaction": "6.0.0",
     "@fullcalendar/list": "6.0.0",
     "@fullcalendar/react": "6.0.2",
