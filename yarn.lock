@@ -724,10 +724,10 @@
   dependencies:
     preact "^10.0.5"
 
-"@fullcalendar/daygrid@6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@fullcalendar/daygrid/-/daygrid-6.0.0.tgz#3ac16d70925955c9f81a53ac0b76b1b5c3213f7d"
-  integrity sha512-Lzv1saFduDR9amaC1zeHFb+iBBqGF7Gu+j5O6zTSZarCCWlrc9lgTN7sB6VAQE2XIFfz8s9EzK3UYd/goaKMpA==
+"@fullcalendar/daygrid@6.0.2":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@fullcalendar/daygrid/-/daygrid-6.0.2.tgz#c67b90335d31ba145ff611fbfdba31edc1e9a925"
+  integrity sha512-OoHo+HbKmunq2hy5K6T2390DmSwXIENxHBeKFPlUXHK48xD/zXQI3N1zRlZRd83+Yrq+vDF6l8ObO9PMu2leJw==
 
 "@fullcalendar/daygrid@~6.0.2":
   version "6.0.3"
@@ -1201,10 +1201,10 @@
   resolved "https://registry.yarnpkg.com/@protobufjs/utf8/-/utf8-1.1.0.tgz#a777360b5b39a1a2e5106f8e858f2fd2d060c570"
   integrity sha512-Vvn3zZrhQZkkBE8LSuW3em98c0FwgO4nxzv6OdSxPKJIEKY2bGbHn+mhGIPerzI4twdxaP8/0+06HBpwf345Lw==
 
-"@reduxjs/toolkit@1.9.1":
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/@reduxjs/toolkit/-/toolkit-1.9.1.tgz#4c34dc4ddcec161535288c60da5c19c3ef15180e"
-  integrity sha512-HikrdY+IDgRfRYlCTGUQaiCxxDDgM1mQrRbZ6S1HFZX5ZYuJ4o8EstNmhTwHdPl2rTmLxzwSu0b3AyeyTlR+RA==
+"@reduxjs/toolkit@1.9.3":
+  version "1.9.3"
+  resolved "https://registry.yarnpkg.com/@reduxjs/toolkit/-/toolkit-1.9.3.tgz#27e1a33072b5a312e4f7fa19247fec160bbb2df9"
+  integrity sha512-GU2TNBQVofL09VGmuSioNPQIu6Ml0YLf4EJhgj0AvBadRlCGzUWet8372LjvO4fqKZF2vH1xU0htAa7BrK9pZg==
   dependencies:
     immer "^9.0.16"
     redux "^4.2.0"
