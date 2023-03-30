@@ -24,7 +24,7 @@
     "@fullcalendar/interaction": "6.0.2",
     "@fullcalendar/list": "6.0.2",
     "@fullcalendar/react": "6.0.2",
-    "@fullcalendar/timegrid": "6.0.2",
+    "@fullcalendar/timegrid": "6.0.0",
     "@hookform/resolvers": "2.9.10",
     "@iconify/react": "4.0.1",
     "@mui/lab": "5.0.0-alpha.115",
