@@ -34,7 +34,7 @@
     "@reduxjs/toolkit": "1.9.1",
     "apexcharts-clevision": "3.28.5",
     "axios": "1.2.2",
-    "axios-mock-adapter": "1.21.2",
+    "axios-mock-adapter": "1.21.3",
     "chart.js": "3.9.1",
     "cleave.js": "1.6.0",
     "clipboard-copy": "4.0.1",
