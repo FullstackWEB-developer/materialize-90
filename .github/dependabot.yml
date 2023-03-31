@@ -15,3 +15,10 @@ updates:
     ignore:
       - dependency-name: "react-chartjs-2"
       - dependency-name: "chart.js"
+      - dependency-name: "@fullcalendar/common"
+      - dependency-name: "@fullcalendar/core"
+      - dependency-name: "@fullcalendar/daygrid"
+      - dependency-name: "@fullcalendar/interaction"
+      - dependency-name: "@fullcalendar/list"
+      - dependency-name: "@fullcalendar/react"
+      - dependency-name: "@fullcalendar/timegrid"
